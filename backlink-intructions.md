@@ -48,7 +48,7 @@ You can design the home page as you wish, but make sure to include the following
     - write an SEO title and meta description specific to the website
     - feel free to use AI to help write them
     - example:
-    ![seo-meta](assets/seo-meta.png)
+    - ![seo-meta](assets/seo-meta.png)
 > Fix any **red** SEO issues Yoast mentions about the page. If you can, yellow issues as well.
 
 ---
