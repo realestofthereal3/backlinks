@@ -6,7 +6,7 @@
 
 - **URL:** [https://jetwin77pro.com/fryer37](https://jetwin77pro.com/fryer37)
 - **Username:** `sharkhelp@outlook.com`
-- **Password:** `CuteShark123`
+- **Password:** `CuteShark123$`
 
 ---
 
