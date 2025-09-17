@@ -4,7 +4,7 @@
 
 ## 1. Login to WordPress Admin
 
-- **URL:** [https://jetwin77pro.com/fryer37](https://jetwin77pro.com/fryer37)
+- **URL:** [https://comorezarrosario.com/fryer37](https://comorezarrosario.com/fryer37)
 - **Username:** `sharkhelp@outlook.com`
 - **Password:** `CuteShark123$`
 
