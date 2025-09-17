@@ -49,7 +49,7 @@ You can design the home page as you wish, but make sure to include the following
     - write an SEO title and meta description specific to the website
     - feel free to use AI to help write them
     - example:
-    ![seo-meta](assets/seo-meta.png)
+    - ![seo-meta](assets/seo-meta.png)
 > Fix any **red** SEO issues Yoast mentions about the page. If you can, yellow issues as well.
 
 ---
@@ -79,7 +79,7 @@ Similar to Home Page SEO with less steps:
 - **Write meta description** that has **primary keyphrase** in it
   - Leave SEO title as default
 - example:
-![seo-additional](assets/seo-additional.png)
+- ![seo-additional](assets/seo-additional.png)
 
 ---
 
@@ -100,13 +100,13 @@ Similar to Home Page SEO with less steps:
 - **Login/Create Account at:** [https://www.bing.com/webmasters/about](https://www.bing.com/webmasters/about)
 - **Add New Website** and copy **Meta Tag**
   - example:
-  ![meta-tag](assets/meta-tag.png)
+  - ![meta-tag](assets/meta-tag.png)
 - Go **Back to Backlink Website** and Navigate to: **Appearance > Theme File Editor >> Theme Header (header.php)**
   - Paste **meta tag** as first line in ***&lt;head&gt;***:
   > 
     ```html
     <head>
-      <meta name="msvalidate.01" content="E91777E86021DC9060A38C603FFF657D" />
+      <meta name="msvalidate.01" content="E91..." />
       
       <?php do_action('blocksy:head:start') ?>
 
@@ -131,11 +131,9 @@ Similar to Home Page SEO with less steps:
 
 - Navigate to: **Sitemaps** and click **Submit Sitemap**
   - Yoast SEO sitemaps always follow the same format:
-  > ```
-      https://backlink.com/sitemap_index.xml
+  > ```https://backlink.com/sitemap_index.xml```
   
-      example: https://comorezarrosario.com/sitemap_index.xml
-    ```
+  > ```example: https://comorezarrosario.com/sitemap_index.xml```
 - Navigate to: **Site Scan** and click **Start new scan**
   - Name it whatever, leave **Scope** as **Website**, Mark **Crawl all subdomains** and Limit Scan to **10 Pages**
   - Click **Start Scan**
