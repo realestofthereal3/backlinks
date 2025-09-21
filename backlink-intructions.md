@@ -4,7 +4,7 @@
 
 ## 1. Login to WordPress Admin
 
-- **URL:** [https://hartfest.com/fryer37](https://hartfest.com/fryer37)
+- **URL:** [https://johnlprobert.com/fryer37](https://johnlprobert.com/fryer37)
 - **Username:** `sharkhelp@outlook.com`
 - **Password:** `CuteShark123$`
 
