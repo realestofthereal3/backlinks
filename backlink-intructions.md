@@ -22,6 +22,10 @@
 
 You can design the home page as you wish, but make sure to include the following:
 
+- **Fix the Page Layout**:
+  - Click the **Settings Gear Icon** at the top middle of the screen
+  - Scroll down and toggle **Hide Title**
+  - Change the page layout to **Elementor Full Width**
 - **Only ONE H1 heading** that describes the website (important for search engine crawlers)
 - **At least 300 words** in total
   - Must have **primary keyphrase** at least once
